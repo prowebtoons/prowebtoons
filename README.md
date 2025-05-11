@@ -1,12 +1,11 @@
-<h1>
-    Hi there, I'm ChaeeZy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=prowebtoons&left_color=brown&right_color=darkolivegreen" align="right" />
-    <img src="https://img.shields.io/github/followers/prowebtoons?label=Followers&style=flat-square&color=orange" align="right" />
-    <img src="https://img.shields.io/github/stars/prowebtoons?label=Starts&style=flat-square&color=darkred" align="right" />
-    <img width="20" align="right" />
-    <img src="https://img.shields.io/badge/React-Enthusiast-61DAFB?style=flat-square" align="right" />
-    <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=flat-square" align="right" />
-</h1>
+<h1>Hi there, I'm ChaeeZy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
+<div align="left">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=prowebtoons&left_color=brown&right_color=darkolivegreen" />
+    <img src="https://img.shields.io/github/followers/prowebtoons?label=Followers&style=flat-square&color=orange" />
+    <img src="https://img.shields.io/github/stars/prowebtoons?label=Starts&style=flat-square&color=darkred" />
+    <img src="https://img.shields.io/badge/React-Enthusiast-61DAFB?style=flat-square" />
+    <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=flat-square" />
+</div>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="240">
 
